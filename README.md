@@ -12,7 +12,7 @@ Passionate developper and student at Limoges's University 💻
 <!--
 🎨 **Design** : UI/UX | Figma | TailwindCSS  
 -->
-
+<!--
 ---
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LOI-mln&theme=dracula)
@@ -27,7 +27,7 @@ Passionate developper and student at Limoges's University 💻
 ![Profile Views](https://komarev.com/ghpvc/?username=LOI-mln&color=blueviolet)  
 ![Top Languages](https://img.shields.io/github/languages/top/LOI-mln/yourrepo?color=orange)  
 ![GitHub Followers](https://img.shields.io/github/followers/LOI-mln?style=social)
-
+-->
 --- 
 
 ## 💡 Projects Worth Exploring  
