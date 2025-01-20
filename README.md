@@ -12,7 +12,23 @@ Passionate developper and student at Limoges's University 💻
 <!--
 🎨 **Design** : UI/UX | Figma | TailwindCSS  
 -->
+
 ---
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula)
+
+---
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)  
+![Top Languages](https://img.shields.io/github/languages/top/yourusername/yourrepo?color=orange)  
+![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)
+
+--- 
 
 ## 💡 Projects Worth Exploring  
 Here are some of my creations:
