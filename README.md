@@ -15,18 +15,18 @@ Passionate developper and student at Limoges's University 💻
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LOI-mln&theme=dracula)
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LOI-mln&show_icons=true&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOI-mln&layout=compact&theme=radical)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)  
-![Top Languages](https://img.shields.io/github/languages/top/yourusername/yourrepo?color=orange)  
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=LOI-mln&color=blueviolet)  
+![Top Languages](https://img.shields.io/github/languages/top/LOI-mln/yourrepo?color=orange)  
+![GitHub Followers](https://img.shields.io/github/followers/LOI-mln?style=social)
 
 --- 
 
