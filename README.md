@@ -3,17 +3,20 @@
 Hi there, I’m **Milan LOI**! 🚀  
 Passionate developper and student at Limoges's University 💻
 
+![Profile Views](https://komarev.com/ghpvc/?username=LOI-mln&color=blueviolet)  
+
 ---
 
 ## 🔧 My Tech Stack   
-🌐 **Web** : HTML | CSS | Java
-⚙️ **Languages** :  Python | R | Bash | C 
-📊 **Data** : SQL 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b)
+
 <!--
 🎨 **Design** : UI/UX | Figma | TailwindCSS  
 -->
 <!--
----
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LOI-mln&theme=dracula)
 
@@ -22,9 +25,10 @@ Passionate developper and student at Limoges's University 💻
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LOI-mln&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOI-mln&layout=compact&theme=radical)
 
----
+-->
 
-![Profile Views](https://komarev.com/ghpvc/?username=LOI-mln&color=blueviolet)  
+<!--
+
 ![Top Languages](https://img.shields.io/github/languages/top/LOI-mln/yourrepo?color=orange)  
 ![GitHub Followers](https://img.shields.io/github/followers/LOI-mln?style=social)
 -->
@@ -39,8 +43,14 @@ Description rapide : Une solution révolutionnaire pour [résoudre un problème 
 ### 🚀 [Nom du projet #2](https://github.com/tonpseudo/tonprojet2)  
 Description rapide : Un outil qui facilite la vie des [type d'utilisateur].
 -->
----
 
+---
+## 🎮 Hobbies
+![Fortnite](https://makerworld.bblmw.com/makerworld/model/DSM00000000493988/design/2024-06-12_b5da2c8a2814b8.png)
+![Chess](https://static.wikia.nocookie.net/logopedia/images/4/4a/Chess.com_2019_%28App_Icon%29.png/revision/latest/scale-to-width-down/250?cb=20221006103032)
+
+
+---
 ## 🌍 Let’s Connect!  
 🌐 [Portfolio](https://tonportfolio.com)  
 💼 [LinkedIn](https://linkedin.com/in/tonpseudo)  
