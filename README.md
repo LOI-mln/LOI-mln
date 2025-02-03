@@ -45,12 +45,6 @@ Description rapide : Un outil qui facilite la vie des [type d'utilisateur].
 -->
 
 ---
-## 🎮 Hobbies
-![Fortnite](https://makerworld.bblmw.com/makerworld/model/DSM00000000493988/design/2024-06-12_b5da2c8a2814b8.png)
-![Chess](https://static.wikia.nocookie.net/logopedia/images/4/4a/Chess.com_2019_%28App_Icon%29.png/revision/latest/scale-to-width-down/250?cb=20221006103032)
-
-
----
 ## 🌍 Let’s Connect!  
 🌐 [Portfolio](https://tonportfolio.com)  
 💼 [LinkedIn](https://linkedin.com/in/tonpseudo)  
