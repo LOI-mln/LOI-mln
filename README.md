@@ -34,9 +34,10 @@ A quick description: Web App using PHP for the university of Limoges.
 ---
 
 ## 📊 GitHub Stats
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LOI-mln&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOI-mln&layout=compact&theme=radical)
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LOI-mln&show_icons=true&theme=radical" alt="Milan's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOI-mln&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</div>
 ---
 
 ## 🌍 Connect with Me
