@@ -1,53 +1,49 @@
-# 👋 Welcome to My GitHub Universe 🌟
+# 👋 Hello, I’m Milan LOI! 🌟
 
-Hi there, I’m **Milan LOI**! 🚀  
-Passionate developper and student at Limoges's University 💻
+Welcome to my GitHub universe! 🚀  
+I’m a **passionate developer and student at the University of Limoges** 💻  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LOI-mln&color=blueviolet)  
 
 ---
 
-## 🔧 My Tech Stack   
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b)
+## 🔧 My Tech Stack
+Here are the main technologies I work with:
 
-<!--
-🎨 **Design** : UI/UX | Figma | TailwindCSS  
--->
-<!--
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LOI-mln&theme=dracula)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LOI-mln&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOI-mln&layout=compact&theme=radical)
+## 💡 Projects Worth Exploring
+Here are some of my projects you might find interesting:
 
--->
+### 🎨 [Project One](https://github.com/jules87000/latice)  
+A quick description: Final task for my 1st grade of IT.  
 
-<!--
+### 🚀 [Project Two](https://github.com/LOI-mln/todo-app)  
+A quick description: Simple and useful app to keep an eye on every task to-do.
 
-![Top Languages](https://img.shields.io/github/languages/top/LOI-mln/yourrepo?color=orange)  
-![GitHub Followers](https://img.shields.io/github/followers/LOI-mln?style=social)
--->
---- 
-
-## 💡 Projects Worth Exploring  
-Here are some of my creations:
-<!--
-### 🎨 [Nom du projet #1](https://github.com/tonpseudo/tonprojet1)  
-Description rapide : Une solution révolutionnaire pour [résoudre un problème précis].
-
-### 🚀 [Nom du projet #2](https://github.com/tonpseudo/tonprojet2)  
-Description rapide : Un outil qui facilite la vie des [type d'utilisateur].
--->
+### 🔗 [Project Three](https://github.com/Mdeterne/Web-app-questionary)  
+A quick description: Web App using PHP for the university of Limoges.  
 
 ---
-## 🌍 Let’s Connect!  
-🌐 [Portfolio](https://tonportfolio.com)  
-💼 [LinkedIn](https://linkedin.com/in/tonpseudo)  
+
+## 📊 GitHub Stats
+![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LOI-mln&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOI-mln&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with Me
+Let’s stay in touch!  
+
+ 
 🐦 [Twitter](https://x.com/MLN_444)  
 📧 [Email](mailto:milan.loi@unilim.fr)  
 
