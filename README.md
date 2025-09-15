@@ -23,13 +23,13 @@ Here are the main technologies I work with:
 Here are some of my projects you might find interesting:
 
 ### 🎨 [Latice](https://github.com/jules87000/latice)  
-A quick description: Final task for my 1st grade of IT.  
+Final task for my 1st grade of IT.  
 
 ### 🚀 [To-Do App](https://github.com/LOI-mln/todo-app)  
-A quick description: Simple and useful app to keep an eye on every task to-do.
+Simple and useful app to keep an eye on every task to-do.
 
 ### 🔗 [Questionnary](https://github.com/Mdeterne/Web-app-questionary)  
-A quick description: Web App using PHP for the university of Limoges.  
+Web App using PHP for the university of Limoges.  
 
 ---
 
