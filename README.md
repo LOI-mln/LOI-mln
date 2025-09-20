@@ -2,9 +2,6 @@
 
 Welcome to my GitHub universe! 🚀  
 I’m a **passionate developer and student at the University of Limoges** 💻  
-
-![Profile Views](https://komarev.com/ghpvc/?username=LOI-mln&color=blueviolet)  
-
 ---
 
 ## 🔧 My Tech Stack
@@ -30,15 +27,6 @@ Simple and useful app to keep an eye on every task to-do.
 
 ### 🔗 [Questionnary](https://github.com/Mdeterne/Web-app-questionary)  
 Web App using PHP for the university of Limoges.  
-
----
-
-## 🌍 Connect with Me
-Let’s stay in touch!  
-
- 
-🐦 [Twitter](https://x.com/MLN_444)  
-📧 [Email](mailto:milan.loi@unilim.fr)  
 
 ---
 
