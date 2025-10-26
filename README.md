@@ -2,21 +2,21 @@
 
 ---
 
-## Tech I use
+## My techs
 
 Here is an overview of the technologies I work with:
 
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `Java` `JavaScript` `SQL` `PHP` |
-| **Front-End** | `HTML5` `CSS3` `React` |
+| **Front-End** | `HTML5` `CSS` `React` |
 | **Back-End** | `Node.js` `Spring Boot` `Flask` |
 | **Databases** | `PostgreSQL` `MySQL` `SQLite` |
 | **Tools & DevOps** | `Git` `Docker` `Linux` |
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/milan-loi" target="blank">
