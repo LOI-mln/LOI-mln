@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-milan.loi%40etu.unilim.fr-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <a href="https://ton-site-portfolio.com" target="_blank">
+  <a href="https://loi-mln.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2EA44F?logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
